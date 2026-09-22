@@ -35,10 +35,13 @@ El proyecto está separado en:
 
 `http://localhost/SistemaMVC/`
 
-## Video de demostración
 
-Agregar aquí el enlace del video de máximo 2 minutos antes de entregar.
+## Video de demostración
+https://youtu.be/Rciwux-JW10
+
+
 
 ## Autor
 
 Proyecto realizado para práctica académica de Programación.
+Jorge Alejandro Gutierrez Hidalgo
